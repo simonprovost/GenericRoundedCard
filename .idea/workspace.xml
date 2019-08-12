@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fccb3943-75fc-45a0-bfea-b315abb54042" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/SF-UI-Display-Bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/SF-UI-Display-Ultralight.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/SF-UI-Text-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/genericRoundedCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Badge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Body.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/CardItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/CheckBox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Fab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/FooterTab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/H1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/H2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/H3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/InputGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Label.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Left.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/ListItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Picker.android.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Picker.ios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Right.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Segment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Separator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Spinner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Subtitle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/SwipeRow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/TabBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/TabContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/TabHeading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Textarea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Thumbnail.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/Toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/View.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/variables/commonColor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/variables/material.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/native-base-theme/variables/platform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/GenericRoundedCard.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PLGg57LFy7V2O6kn5ii8ogyD0X" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fccb3943-75fc-45a0-bfea-b315abb54042" name="Default Changelist" comment="" />
+      <created>1565646070363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565646070363</updated>
+      <workItem from="1565646074304" duration="1901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

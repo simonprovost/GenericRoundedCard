@@ -14,11 +14,11 @@ export class GenericRoundedCard extends Component {
 
 	async componentDidMount() {
 		await Font.loadAsync({
-			Roboto: require("../node_modules/native-base/Fonts/Roboto.ttf"),
-			Roboto_medium: require("../node_modules/native-base/Fonts/Roboto_medium.ttf"),
-			SnapFont: require("./../assets/fonts/SF-UI-Text-Regular.otf"),
-			SnapFontLight: require("./../assets/fonts/SF-UI-Display-Ultralight.otf"),
-			SnapFontBold: require("./../assets/fonts/SF-UI-Display-Bold.otf")
+			Roboto: require("./../assets/fonts/Roboto.ttf"),
+			Roboto_medium: require("./../assets/fonts/Roboto_medium.ttf"),
+			GenericRoundedCardNormal: require("./../assets/fonts/SF-UI-Text-Regular.otf"),
+			GenericRoundedCardLight: require("./../assets/fonts/SF-UI-Display-Ultralight.otf"),
+			GenericRoundedCardBold: require("./../assets/fonts/SF-UI-Display-Bold.otf")
 		});
 		this.setState({
 			loading: false,

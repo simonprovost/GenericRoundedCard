@@ -43,7 +43,7 @@ import {GenericRoundedCard} from "./components/genericRoundedCard";
 
 ...
 <GenericRoundedCard
-	fontTopLeftCornerTitle={"SnapFontBold"}
+	fontTopLeftCornerTitle={"GenericRoundedCardBold"}
 	contentTopLeftCornerTitle={'Jean Dupont'}
 	colorTopLeftCornerTitle={"white"}
 	sizeTitleTopLeftCorner={32}
@@ -51,8 +51,8 @@ import {GenericRoundedCard} from "./components/genericRoundedCard";
 	thumbnailTopRightCorner={'shorturl.at/uP678'}
 	formatPictureTopRightCorner={'square'}
 
-	fontBottomLeftTitle={"SnapFont"}
-	fontBottomLeftText={"SnapFontLight"}
+	fontBottomLeftTitle={"GenericRoundedCardNormal"}
+	fontBottomLeftText={"GenericRoundedCardLight"}
 	contentBottomLeftTitle={"EMAIL"}
 	contentBottomLeftText={'Jean-Dupont@gmail.com'}
 	colorBottomLeftTitle={"white"}

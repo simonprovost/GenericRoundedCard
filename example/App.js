@@ -21,7 +21,7 @@ export default function App() {
 			<ScrollView
 			style={{marginBottom: 20}}>
 				<GenericRoundedCard
-					fontTopLeftCornerTitle={"SnapFontBold"}
+					fontTopLeftCornerTitle={"GenericRoundedCardBold"}
 					contentTopLeftCornerTitle={'Jean Dupont'}
 					colorTopLeftCornerTitle={"white"}
 					sizeTitleTopLeftCorner={32}
@@ -29,8 +29,8 @@ export default function App() {
 					thumbnailTopRightCorner={'https://www.ameswessex.com/wp-content/uploads/2017/05/facebook-logo-png-white-i6-300x300.png'}
 					formatPictureTopRightCorner={'square'}
 
-					fontBottomLeftTitle={"SnapFont"}
-					fontBottomLeftText={"SnapFontLight"}
+					fontBottomLeftTitle={"GenericRoundedCardNormal"}
+					fontBottomLeftText={"GenericRoundedCardLight"}
 					contentBottomLeftTitle={"EMAIL"}
 					contentBottomLeftText={'Jean-Dupont@gmail.com'}
 					colorBottomLeftTitle={"white"}
@@ -44,8 +44,8 @@ export default function App() {
 					backgroundColorCard={"#3b5998"}
 				/>
 				<GenericRoundedCard
-					fontBottomRightTitle={"SnapFont"}
-					fontBottomRightText={"SnapFontLight"}
+					fontBottomRightTitle={"GenericRoundedCardNormal"}
+					fontBottomRightText={"GenericRoundedCardLight"}
 					contentBottomRightTitle={"Level"}
 					contentBottomRightText={"4658"}
 					sizeTitleBottomRight={28}
@@ -53,8 +53,8 @@ export default function App() {
 					colorBottomRightTitle={"white"}
 					colorBottomRightText={"white"}
 
-					fontBottomLeftTitle={"SnapFont"}
-					fontBottomLeftText={"SnapFontLight"}
+					fontBottomLeftTitle={"GenericRoundedCardNormal"}
+					fontBottomLeftText={"GenericRoundedCardLight"}
 					contentBottomLeftTitle={"Email"}
 					contentBottomLeftText={"Dona-Tor@gmail.com"}
 					sizeTitleBottomLeft={28}
@@ -65,7 +65,7 @@ export default function App() {
 					thumbnailTopLeftCorner={'https://pe56d.s3.amazonaws.com/p18ld9bqdm1c4i1h2t1amo8fp7fs7.png'}
 					formatPictureTopLeftCorner={'square'}
 
-					fontTopRightCornerTitle={'SnapFontBold'}
+					fontTopRightCornerTitle={'GenericRoundedCardBold'}
 					contentTopRightCornerTitle={"DONATOR St4ck"}
 					sizeTitleTopRightCorner={30}
 					colorTopRightCornerTitle={'white'}
@@ -74,8 +74,8 @@ export default function App() {
 				/>
 
 				<GenericRoundedCard
-					fontBottomRightTitle={"SnapFont"}
-					fontBottomRightText={"SnapFontLight"}
+					fontBottomRightTitle={"GenericRoundedCardNormal"}
+					fontBottomRightText={"GenericRoundedCardLight"}
 					contentBottomRightTitle={"FOLLOWERS"}
 					contentBottomRightText={"3500"}
 					sizeTitleBottomRight={16}
@@ -83,8 +83,8 @@ export default function App() {
 					colorBottomRightTitle={"#282c34"}
 					colorBottomRightText={"#282c34"}
 
-					fontBottomLeftTitle={"SnapFont"}
-					fontBottomLeftText={"SnapFontLight"}
+					fontBottomLeftTitle={"GenericRoundedCardNormal"}
+					fontBottomLeftText={"GenericRoundedCardLight"}
 					contentBottomLeftTitle={"FOLLOWING"}
 					contentBottomLeftText={"1250"}
 					colorBottomLeftTitle={"#282c34"}
@@ -92,7 +92,7 @@ export default function App() {
 					sizeTitleBottomLeft={16}
 					sizeTextBottomLeft={16}
 
-					fontTopLeftCornerTitle={"SnapFontBold"}
+					fontTopLeftCornerTitle={"GenericRoundedCardBold"}
 					contentTopLeftCornerTitle={"Lola Dupont"}
 					colorTopLeftCornerTitle={"#282c34"}
 					sizeTitleTopLeftCorner={32}
@@ -103,8 +103,8 @@ export default function App() {
 					backgroundColorCard={"white"}
 				/>
 				<GenericRoundedCard
-					fontBottomRightTitle={"SnapFont"}
-					fontBottomRightText={"SnapFontLight"}
+					fontBottomRightTitle={"GenericRoundedCardNormal"}
+					fontBottomRightText={"GenericRoundedCardLight"}
 					contentBottomRightTitle={"FOLLOWERS"}
 					contentBottomRightText={"108 Millions"}
 					sizeTitleBottomRight={16}
@@ -112,8 +112,8 @@ export default function App() {
 					colorBottomRightTitle={"white"}
 					colorBottomRightText={"white"}
 
-					fontBottomLeftTitle={"SnapFont"}
-					fontBottomLeftText={"SnapFontLight"}
+					fontBottomLeftTitle={"GenericRoundedCardNormal"}
+					fontBottomLeftText={"GenericRoundedCardLight"}
 					contentBottomLeftTitle={"FOLLOWING"}
 					contentBottomLeftText={"219"}
 					colorBottomLeftTitle={"white"}
@@ -121,7 +121,7 @@ export default function App() {
 					sizeTitleBottomLeft={16}
 					sizeTextBottomLeft={16}
 
-					fontTopLeftCornerTitle={"SnapFontBold"}
+					fontTopLeftCornerTitle={"GenericRoundedCardBold"}
 					contentTopLeftCornerTitle={"Katy Perry"}
 					colorTopLeftCornerTitle={"white"}
 					sizeTitleTopLeftCorner={32}
@@ -135,8 +135,8 @@ export default function App() {
 					thumbnailBottomRightCorner={'https://resize-parismatch.lanmedia.fr/r/625,417,center-middle,ffffff/img/var/news/storage/images/paris-match/people/dwayne-the-rock-johnson-pere-feministe-1538654/25055048-1-fre-FR/Dwayne-The-Rock-Johnson-pere-feministe.jpg'}
 					formatPictureBottomRight={'circle'}
 
-					fontBottomLeftTitle={"SnapFont"}
-					fontBottomLeftText={"SnapFontLight"}
+					fontBottomLeftTitle={"GenericRoundedCardNormal"}
+					fontBottomLeftText={"GenericRoundedCardLight"}
 					contentBottomLeftTitle={"EMAIL"}
 					contentBottomLeftText={'dwayne-johnson@theRock.com'}
 					colorBottomLeftTitle={"white"}
@@ -144,7 +144,7 @@ export default function App() {
 					sizeTitleBottomLeft={16}
 					sizeTextBottomLeft={16}
 
-					fontTopLeftCornerTitle={"SnapFontBold"}
+					fontTopLeftCornerTitle={"GenericRoundedCardBold"}
 					contentTopLeftCornerTitle={'The Rock'}
 					colorTopLeftCornerTitle={"white"}
 					sizeTitleTopLeftCorner={32}
@@ -158,8 +158,8 @@ export default function App() {
 					thumbnailBottomRightCorner={"https://www.thefamouspeople.com/profiles/images/vladimir-putin-4.jpg"}
 					formatPictureBottomRight={'circle'}
 
-					fontBottomLeftTitle={"SnapFont"}
-					fontBottomLeftText={"SnapFontLight"}
+					fontBottomLeftTitle={"GenericRoundedCardNormal"}
+					fontBottomLeftText={"GenericRoundedCardLight"}
 					contentBottomLeftTitle={"EMAIL"}
 					contentBottomLeftText={"rizky@gmail.com"}
 					colorBottomLeftTitle={"white"}
@@ -167,7 +167,7 @@ export default function App() {
 					sizeTitleBottomLeft={16}
 					sizeTextBottomLeft={16}
 
-					fontTopLeftCornerTitle={"SnapFontBold"}
+					fontTopLeftCornerTitle={"GenericRoundedCardBold"}
 					contentTopLeftCornerTitle={"Rizky Puchkov"}
 					colorTopLeftCornerTitle={"white"}
 					sizeTitleTopLeftCorner={32}
@@ -178,8 +178,8 @@ export default function App() {
 					backgroundColorCard={"#25d366"}
 				/>
 				<GenericRoundedCard
-					fontBottomRightTitle={"SnapFont"}
-					fontBottomRightText={"SnapFontLight"}
+					fontBottomRightTitle={"GenericRoundedCardNormal"}
+					fontBottomRightText={"GenericRoundedCardLight"}
 					contentBottomRightTitle={"FOLLOWERS"}
 					contentBottomRightText={"9500"}
 					sizeTitleBottomRight={16}
@@ -187,8 +187,8 @@ export default function App() {
 					colorBottomRightTitle={"#24292e"}
 					colorBottomRightText={"#24292e"}
 
-					fontBottomLeftTitle={"SnapFont"}
-					fontBottomLeftText={"SnapFontLight"}
+					fontBottomLeftTitle={"GenericRoundedCardNormal"}
+					fontBottomLeftText={"GenericRoundedCardLight"}
 					contentBottomLeftTitle={"STARS"}
 					contentBottomLeftText={"150"}
 					colorBottomLeftTitle={"#24292e"}
@@ -199,7 +199,7 @@ export default function App() {
 					thumbnailTopLeftCorner={'https://i.dlpng.com/static/png/4028151_preview.png'}
 					formatPictureTopLeftCorner={'circle'}
 
-					fontTopRightCornerTitle={'SnapFontBold'}
+					fontTopRightCornerTitle={'GenericRoundedCardBold'}
 					contentTopRightCornerTitle={"Fabien Potencier"}
 					sizeTitleTopRightCorner={32}
 					colorTopRightCornerTitle={'#24292e'}
@@ -207,8 +207,8 @@ export default function App() {
 					backgroundColorCard={"white"}
 				/>
 				<GenericRoundedCard
-					fontBottomRightTitle={"SnapFont"}
-					fontBottomRightText={"SnapFontLight"}
+					fontBottomRightTitle={"GenericRoundedCardNormal"}
+					fontBottomRightText={"GenericRoundedCardLight"}
 					contentBottomRightTitle={"ISSUE DATE"}
 					contentBottomRightText={"12/12/2020"}
 					sizeTitleBottomRight={24}
@@ -216,8 +216,8 @@ export default function App() {
 					colorBottomRightTitle={"white"}
 					colorBottomRightText={"white"}
 
-					fontBottomLeftTitle={"SnapFont"}
-					fontBottomLeftText={"SnapFontLight"}
+					fontBottomLeftTitle={"GenericRoundedCardNormal"}
+					fontBottomLeftText={"GenericRoundedCardLight"}
 					contentBottomLeftTitle={"MEMBERSHIP NO"}
 					contentBottomLeftText={"12345566"}
 					sizeTitleBottomLeft={24}
@@ -225,7 +225,7 @@ export default function App() {
 					colorBottomLeftTitle={'white'}
 					colorBottomLeftText={'white'}
 
-					fontTopLeftCornerTitle={"SnapFontBold"}
+					fontTopLeftCornerTitle={"GenericRoundedCardBold"}
 					contentTopLeftCornerTitle={"Health Fund"}
 					colorTopLeftCornerTitle={'white'}
 					sizeTitleTopLeftCorner={32}
@@ -236,8 +236,8 @@ export default function App() {
 					backgroundColorCard={"#438EFF"}
 				/>
 				<GenericRoundedCard
-					fontBottomRightTitle={"SnapFont"}
-					fontBottomRightText={"SnapFontLight"}
+					fontBottomRightTitle={"GenericRoundedCardNormal"}
+					fontBottomRightText={"GenericRoundedCardLight"}
 					contentBottomRightTitle={"SCORES"}
 					contentBottomRightText={"2 millions"}
 					sizeTitleBottomRight={24}
@@ -245,8 +245,8 @@ export default function App() {
 					colorBottomRightTitle={"#24292e"}
 					colorBottomRightText={"#24292e"}
 
-					fontBottomLeftTitle={"SnapFont"}
-					fontBottomLeftText={"SnapFontLight"}
+					fontBottomLeftTitle={"GenericRoundedCardNormal"}
+					fontBottomLeftText={"GenericRoundedCardLight"}
 					contentBottomLeftTitle={"EMAIL"}
 					contentBottomLeftText={"DJ.Khaled@gmail.eu"}
 					sizeTitleBottomLeft={24}
@@ -254,7 +254,7 @@ export default function App() {
 					colorBottomLeftTitle={'#24292e'}
 					colorBottomLeftText={'#24292e'}
 
-					fontTopLeftCornerTitle={"SnapFontBold"}
+					fontTopLeftCornerTitle={"GenericRoundedCardBold"}
 					contentTopLeftCornerTitle={"DJ Khaled"}
 					colorTopLeftCornerTitle={'#24292e'}
 					sizeTitleTopLeftCorner={32}

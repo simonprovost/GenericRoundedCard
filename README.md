@@ -13,10 +13,10 @@ _______________________________
 
 * The module allow you to create a rounded Card with the color that you choose.
 * The module allow you to add a Thumbnail(picture url or picture in your repository) where you want (corner of the card)
-* The module allow you to add two different method of text where you want (corner of the card) {
+* The module allow you to add two different method of text where you want (corner of the card) 
   * Title only.
   * Title + Text under the title. <br/>
-  }
+
 
 ## Usage 
 

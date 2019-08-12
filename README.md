@@ -7,6 +7,7 @@ See few example in the following gif:
 
 Inspriation from @medipass (https://github.com/medipass/react-native-health-card)
 
+Leave a Star if you like this component.
 _______________________________
 
 ## Characteristics
@@ -126,5 +127,16 @@ Property	Type	Default	Description
 | sizeTextBottomRight | number | undefined | The size of your string |
 | colorBottomRightTitle | string ("white", "#ffff") | undefined | The color of your string |
 | colorBottomRightText | string ("white", "#ffff") | undefined | The color of your string |
- 
 
+
+## FONT available 
+
+* Roboto ` require("./../assets/fonts/Roboto.ttf"),`
+* Roboto_medium ` require("./../assets/fonts/Roboto_medium.ttf"), `
+* GenericRoundedCardNormal ` require("./../assets/fonts/SF-UI-Text-Regular.otf"), `
+* GenericRoundedCardLight ` require("./../assets/fonts/SF-UI-Display-Ultralight.otf"), `
+* GenericRoundedCardBold ` require("./../assets/fonts/SF-UI-Display-Bold.otf") `
+
+You need to copy them and add to your project (change the path if their are not where I wrote). 
+
+Thank you.

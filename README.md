@@ -23,7 +23,7 @@ _______________________________
 
 This is my first component, I don't know if he can be really useful for user to be a npm module then you need to add my file in your repository to use it.
 
-* Go the root folder and download the file with the name "genericRoundedCard.js" and the font as well.
+* Go the root folder and download the file with the name "genericRoundedCard.js" and the fonts as well.
 * Add it to your repository. (usually in the components folder for the js file and assets/font/ for the fonts)
 * Import it. ` import {GenericRoundedCard} from "[path_to_the_location_of_the_file]/genericRoundedCard"' `
 * Use it with the available props. 
@@ -37,7 +37,7 @@ To run the example in the `example/` folder:
 
 1. `cd example/`
 2. `npm install`
-3. `yarn start`
+3. `yarn start` (using expo)
 
 ```javascript
 import {GenericRoundedCard} from "./components/genericRoundedCard";

@@ -7,7 +7,7 @@ import * as Font from 'expo-font';
 export class GenericRoundedCard extends Component {
 	constructor(props) {
 		super(props);
-		this.state.= {
+		this.state = {
 			loading: true,
 		};
 	}
@@ -147,24 +147,20 @@ export class GenericRoundedCard extends Component {
 			</CardItem>;
 
 		return (
-			<View style={styles.container}>
-				<View padder>
-					<Card style={{borderRadius: 9}}>
-						<CardItem header style={{borderBottomLeftRadius: 0, borderBottomRightRadius: 0, borderTopLeftRadius: 9, borderTopRightRadius: 9,  backgroundColor: this.props.backgroundColorCard, flexDirection: "row"}}>
-							{headerLeftContent}
-							{headerRightContent}
-						</CardItem>
-						{emptySpace}
-						{emptySpace}
-						{emptySpace}
-						{emptySpace}
-						<CardItem footer style={{borderBottomLeftRadius: 8, borderBottomRightRadius: 8, borderTopLeftRadius: 0, borderTopRightRadius: 0, backgroundColor: this.props.backgroundColorCard }}>
-							{BottomLeftCornerContent}
-							{BottomRightCornerContent}
-						</CardItem>
-					</Card>
-				</View>
-			</View >
+			<Card style={{borderRadius: 9}}>
+				<CardItem header style={{borderBottomLeftRadius: 0, borderBottomRightRadius: 0, borderTopLeftRadius: 9, borderTopRightRadius: 9,  backgroundColor: this.props.backgroundColorCard, flexDirection: "row"}}>
+					{headerLeftContent}
+					{headerRightContent}
+				</CardItem>
+				{emptySpace}
+				{emptySpace}
+				{emptySpace}
+				{emptySpace}
+				<CardItem footer style={{borderBottomLeftRadius: 8, borderBottomRightRadius: 8, borderTopLeftRadius: 0, borderTopRightRadius: 0, backgroundColor: this.props.backgroundColorCard }}>
+					{BottomLeftCornerContent}
+					{BottomRightCornerContent}
+				</CardItem>
+			</Card>
 		);
 	}
 }

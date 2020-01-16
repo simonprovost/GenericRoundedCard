@@ -4,9 +4,7 @@
     <list default="true" id="fccb3943-75fc-45a0-bfea-b315abb54042" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/.expo/packager-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/.expo/packager-info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.expo/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/.expo/settings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/components/genericRoundedCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/components/genericRoundedCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genericRoundedCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/genericRoundedCard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +58,7 @@
       <updated>1565646070363</updated>
       <workItem from="1565646074304" duration="4506000" />
       <workItem from="1565737030562" duration="53000" />
-      <workItem from="1579188101401" duration="392000" />
+      <workItem from="1579188101401" duration="1118000" />
     </task>
     <servers />
   </component>

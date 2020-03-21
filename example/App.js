@@ -9,17 +9,10 @@ export default function App() {
 			<Header
 				statusBarProps={{ barStyle: 'light-content' }}
 				barStyle="light-content"
-				centerComponent={<Text h3 style={{color: 'white', }}>{"Generic Card"}</Text>}
-				containerStyle={{
-					backgroundColor: "#282c34",
-					justifyContent: 'space-around',
-					height: "10%",
-					borderBottomRightRadius: 60,
-					borderBottomLeftRadius: 60,
-				}}
+				centerComponent={<Text h3 style={styles.titleHeader}>{"Generic Card"}</Text>}
+				containerStyle={styles.header}
 			/>
-			<ScrollView
-			style={{marginBottom: 20}}>
+			<ScrollView style={styles.scrollView}>
 				<GenericRoundedCard
 					fontTopLeftCornerTitle={"GenericRoundedCardBold"}
 					contentTopLeftCornerTitle={'Jean Dupont'}
@@ -264,7 +257,6 @@ export default function App() {
 
 					backgroundColorCard={"yellow"}
 				/>
-				
 			</ScrollView>
 		</View>
 	);
@@ -275,4 +267,17 @@ const styles = StyleSheet.create({
 		flex: 1,
 		backgroundColor: '#fff',
 	},
+	header: {
+		backgroundColor: "#282c34",
+		justifyContent: 'space-around',
+		height: "10%",
+		borderBottomRightRadius: 60,
+		borderBottomLeftRadius: 60,
+	},
+	titleHeader: {
+		color: 'white',
+	},
+	scrollView: {
+		marginBottom: 20,
+	}
 });

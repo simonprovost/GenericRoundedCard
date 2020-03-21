@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fccb3943-75fc-45a0-bfea-b315abb54042" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/.expo/packager-info.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/.expo/packager-info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/components/genericRoundedCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/components/genericRoundedCard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/genericRoundedCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/genericRoundedCard.js" afterDir="false" />
     </list>
@@ -22,8 +22,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -59,6 +61,7 @@
       <workItem from="1565646074304" duration="4506000" />
       <workItem from="1565737030562" duration="53000" />
       <workItem from="1579188101401" duration="1118000" />
+      <workItem from="1584821636968" duration="137000" />
     </task>
     <servers />
   </component>
